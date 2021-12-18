@@ -9,7 +9,7 @@
     Google 2021 HTML&CSS
     <br>
     ·
-    <a href="">View Demo</a>
+    <a href="https://ibrahimakkaya.github.io/Google-2021/">View Demo</a>
     ·
   </p>
 </div>
